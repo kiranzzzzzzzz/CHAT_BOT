@@ -7,7 +7,7 @@ Gemini API and Streamlit within Visual Studio Code (VS Code).
 
 Prerequisites 
 ●  Python (3.7 or later) 
-●  Google API key  Get API key 
+●  Google API key  (https://ai.google.dev/aistudio) 
 ●  Streamlit library 
 ●  Vs Code 
 
@@ -39,3 +39,7 @@ Execute the following command to start the Streamlit server:
 streamlit run mainpy 
 Open your web browser and navigate to  http://localhost:8501  to interact with your 
 chatbot.
+
+
+
+HAPPY CODING! 🎉
