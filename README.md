@@ -1,4 +1,4 @@
-# CHAT_BOT
+# Building a ChatBot
 Building  Chatbot with Google Gemini API and Streamlit 
 
 Overview 
